@@ -1,0 +1,49 @@
+body{
+  background-color: gray;
+  background: url(../images/contact2.avif);
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+.main {
+  margin-top: 9em;
+}
+
+/* Header*/
+.Header {
+  margin-left: 500px;
+  margin-top: 50px;
+  color:orange;
+  font-size: 30px;
+  
+
+}
+/* Form Customizing */
+.ui.search input {
+  width: 100%;
+  border-radius: 0 !important;
+
+}
+
+/* Contact Card*/
+.item {
+  padding: 12px 25px !important;
+  
+  
+}
+
+/*Delete Icon*/
+i.icon { 
+  float: right;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.button {
+  justify-content: center;
+}
+
+
+
+
